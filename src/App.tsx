@@ -1,4 +1,4 @@
-import React, { useEffect, useState, lazy, Suspense } from 'react'
+import { useEffect, useState, lazy, Suspense } from 'react'
 import { Routes, Route, Link } from 'react-router-dom'
 import Dashboard from './Pages/Dashboard'
 import Loading from './components/Loading'
