@@ -1,0 +1,9 @@
+@import "tailwindcss";
+
+.body-bg {
+  @apply bg-slate-50 min-h-screen;
+}
+
+.card {
+  @apply bg-white rounded-2xl shadow p-5;
+}
