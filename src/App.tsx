@@ -24,7 +24,7 @@ export default function App() {
       <div className="bg-slate-700 max-w-6xl mx-auto text-white px-6 py-4 flex items-center justify-between">
         <div className="flex items-center gap-2 text-white">
           <Link to={'/'}>
-            <img className='text-white' src='/public/logo.svg' alt="Logo" />
+            <img className='text-white' src='/logo.svg' alt="Logo" />
           </Link>
         </div>
         <Link to={'/profile'}>
